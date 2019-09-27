@@ -1,0 +1,22 @@
+/*
+ *Name: Enrique Gonzalez-sanchez
+ *UnityID: egonzal9
+ *Date: 09/27/19
+ *Assignment: Webpages GL
+ *Description: Guided lab assignment, about me webpage
+ */
+ 
+p {
+    font-family:Time ;
+    font-size:16px;
+    color: #FFFFFF ;
+}
+
+.table-border {
+    border: 1px soild #FFFFFF ;
+}
+
+#photo-resize{
+    max-width:250px ;
+    max-height: 300px ;
+}
